@@ -1,2 +1,2 @@
-# skeletor-abstract-polimorfirms-java
-EN
+# SKELETOR POLIMORFISM
+:gb:
