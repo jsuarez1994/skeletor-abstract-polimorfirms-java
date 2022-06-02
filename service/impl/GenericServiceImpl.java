@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.service.impl;
+package service.impl;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,11 +8,11 @@ import org.apache.commons.lang3.ObjectUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 
-import es.santander.ucrapl.mcs.dao.impl.BaseDaoImpl;
-import es.santander.ucrapl.mcs.documents.BaseDocument;
-import es.santander.ucrapl.mcs.dto.BaseDTO;
-import es.santander.ucrapl.mcs.map.BaseMapper;
-import es.santander.ucrapl.mcs.repository.BaseRepository;
+import dao.impl.BaseDaoImpl;
+import documents.BaseDocument;
+import dto.BaseDTO;
+import map.BaseMapper;
+import repository.BaseRepository;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 
