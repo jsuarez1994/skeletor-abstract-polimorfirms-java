@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.dao;
+package dao;
 
 import es.santander.ucrapl.mcs.dto.CRIDTO;
 
