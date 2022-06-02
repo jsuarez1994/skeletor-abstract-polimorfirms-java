@@ -1,14 +1,14 @@
-package es.santander.ucrapl.mcs.service.impl;
+package service.impl;
 
 import java.util.List;
 
-import es.santander.ucrapl.mcs.documents.BaseDocument;
-import es.santander.ucrapl.mcs.dto.BaseDTO;
-import es.santander.ucrapl.mcs.dto.PageableDTO;
-import es.santander.ucrapl.mcs.map.BaseMapper;
-import es.santander.ucrapl.mcs.repository.BaseRepository;
-import es.santander.ucrapl.msc.front.Ordenation;
-import es.santander.ucrapl.msc.front.Pagination;
+import documents.BaseDocument;
+import dto.BaseDTO;
+import dto.PageableDTO;
+import map.BaseMapper;
+import repository.BaseRepository;
+import Ordenation;
+import Pagination;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
