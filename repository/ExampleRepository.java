@@ -1,8 +1,8 @@
-package es.santander.ucrapl.mcs.repository;
+package repository;
 
 import org.springframework.stereotype.Repository;
 
-import es.santander.ucrapl.mcs.documents.ExampleDocument;
+import documents.ExampleDocument;
 
 /**
  * Repositorio de tabla table_example
