@@ -1,12 +1,12 @@
-package es.santander.ucrapl.mcs.dao;
+package dao;
 
 import java.util.Date;
 import java.util.List;
 
-import es.santander.ucrapl.mcs.dto.BaseDTO;
-import es.santander.ucrapl.mcs.dto.PageableDTO;
-import es.santander.ucrapl.msc.front.Ordenation;
-import es.santander.ucrapl.msc.front.Pagination;
+import dto.BaseDTO;
+import dto.PageableDTO;
+import Ordenation;
+import Pagination;
 
 /**
  * Dao de ManagerDocument
