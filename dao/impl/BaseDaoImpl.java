@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.dao.impl;
+package dao.impl;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -9,14 +9,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
-import es.santander.ucrapl.mcs.documents.BaseDocument;
-import es.santander.ucrapl.mcs.dto.BaseDTO;
-import es.santander.ucrapl.mcs.dto.PageableDTO;
-import es.santander.ucrapl.mcs.map.BaseMapper;
-import es.santander.ucrapl.mcs.repository.BaseRepository;
-import es.santander.ucrapl.mcs.util.Utilidades;
-import es.santander.ucrapl.msc.front.Ordenation;
-import es.santander.ucrapl.msc.front.Pagination;
+import documents.BaseDocument;
+import dto.BaseDTO;
+import dto.PageableDTO;
+import map.BaseMapper;
+import repository.BaseRepository;
+import util.Utilidades;
+import Ordenation;
+import Pagination;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
