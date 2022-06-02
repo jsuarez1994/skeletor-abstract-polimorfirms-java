@@ -1,12 +1,12 @@
-package es.santander.ucrapl.mcs.dao.impl;
+package dao.impl;
 
 import org.springframework.stereotype.Component;
 
-import es.santander.ucrapl.mcs.dao.exampleDao;
-import es.santander.ucrapl.mcs.documents.exampleDocument;
-import es.santander.ucrapl.mcs.dto.exampleDTO;
-import es.santander.ucrapl.mcs.map.exampleMapper;
-import es.santander.ucrapl.mcs.repository.exampleRepository;
+import dao.exampleDao;
+import documents.exampleDocument;
+import dto.exampleDTO;
+import map.exampleMapper;
+import repository.exampleRepository;
 
 /**
  * Dao de Example 
