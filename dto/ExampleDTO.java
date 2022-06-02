@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.dto;
+package dto;
 
 import java.util.Date;
 
