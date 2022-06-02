@@ -1,11 +1,11 @@
-package es.santander.ucrapl.mcs.service;
+package service;
 
 import java.util.List;
 
-import es.santander.ucrapl.mcs.dto.BaseDTO;
-import es.santander.ucrapl.mcs.dto.PageableDTO;
-import es.santander.ucrapl.msc.front.Ordenation;
-import es.santander.ucrapl.msc.front.Pagination;
+import dto.BaseDTO;
+import dto.PageableDTO;
+import Ordenation;
+import Pagination;
 
 /**
  * Base Service
