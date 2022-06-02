@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.dao;
+package dao;
 
 import java.util.List;
 
