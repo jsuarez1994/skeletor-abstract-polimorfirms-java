@@ -1,9 +1,9 @@
-package es.santander.ucrapl.mcs.map;
+package mapper;
 
 import org.mapstruct.Mapper;
 
-import es.santander.ucrapl.mcs.documents.ExampleDocument;
-import es.santander.ucrapl.mcs.dto.ExampleDTO;
+import documents.ExampleDocument;
+import dto.ExampleDTO;
 
 /**
  * Mapper for the entity {@link ExampleDocument} and its DTO {@link ExampleDTO}.
