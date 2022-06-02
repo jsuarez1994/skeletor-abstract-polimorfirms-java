@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.repository;
+package repository;
 
 import java.util.Date;
 import java.util.List;
@@ -8,7 +8,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
-import es.santander.ucrapl.mcs.documents.BaseDocument;
+import documents.BaseDocument;
 
 /**
  * Repositorio de tabla base de los tipos
