@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.dao.impl;
+package dao.impl;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,8 +14,8 @@ import org.springframework.dao.DataAccessException;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-import es.santander.ucrapl.mcs.map.BaseMapper;
-import es.santander.ucrapl.mcs.map.GenericMapper;
+import map.BaseMapper;
+import map.GenericMapper;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 
