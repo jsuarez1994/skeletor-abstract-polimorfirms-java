@@ -1,6 +1,6 @@
-package es.santander.ucrapl.mcs.service;
+package service;
 
-import es.santander.ucrapl.mcs.dto.CRIDTO;
+import dto.ExampleDTO;
 
 /**
  * Example service
