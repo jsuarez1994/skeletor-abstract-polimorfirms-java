@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.documents;
+package documents;
 
 import java.util.Date;
 
