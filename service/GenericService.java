@@ -1,4 +1,4 @@
-package es.santander.ucrapl.mcs.service;
+package service;
 
 import java.util.List;
 
