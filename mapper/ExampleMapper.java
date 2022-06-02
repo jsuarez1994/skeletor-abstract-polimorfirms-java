@@ -11,6 +11,6 @@ import dto.ExampleDTO;
  * @author jslopez
  */
 @Mapper(componentModel = "spring", uses = {})
-public interface CRIMapper extends BaseMapper<ExampleDTO, ExampleDocument> {
+public interface ExampleMapper extends BaseMapper<ExampleDTO, ExampleDocument> {
 
 }
