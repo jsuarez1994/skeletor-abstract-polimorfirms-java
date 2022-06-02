@@ -1,6 +1,6 @@
 package dao;
 
-import es.santander.ucrapl.mcs.dto.CRIDTO;
+import dto.ExampleTO;
 
 /**
  * Dao de ExampleDTO
